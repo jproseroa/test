@@ -1,0 +1,17 @@
+commit 13cd16b53d129097783891a85a036aefd5a39a66
+Author: jprosero <jpra201@gmial.com>
+Date:   Tue Dec 6 15:37:56 2022 -0500
+
+    se hicieron estos cambios para sabe rcomo utilizar los comandos
+
+commit 2378af417d7025a17421270eae2a687c92d88fe6
+Author: jprosero <jpra201@gmial.com>
+Date:   Tue Dec 6 15:31:00 2022 -0500
+
+    Agregado otro comentario a la pagina
+
+commit 5e78c2b4a2cb01ec91ffc9e8ce302c6aebdc6fe9
+Author: jprosero <jpra201@gmial.com>
+Date:   Tue Dec 6 15:26:15 2022 -0500
+
+    Iniciamos
